@@ -1,4 +1,4 @@
-# Zelatrix.github.io
+# My Website
 Hello, World! I have landed!
 
 Here is a piece of Java code!
