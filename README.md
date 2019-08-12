@@ -1,4 +1,10 @@
 # My Website
+
+Home
+Projects
+About
+Contact
+
 Hello, World! I have landed!
 
 Here is a piece of Java code!
